@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukeshkanike849
 - 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ...ML
+- 🌱 I’m currently learning ...DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
